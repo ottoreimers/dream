@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+header {
+  font-size: 32px;
+}
+
+a {
+  margin: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: gray;
+}
+
+
+.login {
+  margin: 10px;
+  text-align: center;
+}
+
+.register {
+  margin: 10px;
+  text-align: center;
+}
+
+input {
+  padding: 10px;
+}
+
+button {
+  border: 1px solid gray;
+  background-color: transparent;
+}
+
+button:hover {
+  background-color: rgb(212, 212, 212);
+}
